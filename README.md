@@ -18,7 +18,7 @@ This Python script is used to interact with the [12Twenty API](https://12twenty.
 #### Windows
 1. In a commmand prompt, or powershell, change your directory (using the `dir` command) into the root directory of the Python script
     ```bash
-    dir C:\User\jdoe\Downloads\twelvetwenty
+    cd C:\User\jdoe\Downloads\twelvetwenty
     ```
     
 2. Use `pip` to install the script requirements (or `pip3` if you have Python 2.x installed)
