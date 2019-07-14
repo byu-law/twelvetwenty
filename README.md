@@ -2,7 +2,7 @@
 This Python script is used to interact with the [12Twenty API](https://12twenty.freshdesk.com/support/solutions/articles/9000152148-api)
 
 ## Latest Release
-* v0.2-alpha
+* v0.3-alpha
 
 ## Pre-requisites
 * [Python 3.7.x Download](https://www.python.org/downloads/)
@@ -11,7 +11,7 @@ This Python script is used to interact with the [12Twenty API](https://12twenty.
 > For Windows: Make sure you click the option "Add Python 3.x to PATH", otherwise you will not be able to run `python` commands from the command line
 
 ## Quick Start
-* Either clone the repository or [download the latest source-code zip](https://github.com/byu-law/twelvetwenty/archive/v0.2-alpha.zip)
+* Either clone the repository or [download the latest source-code zip](https://github.com/byu-law/twelvetwenty/archive/v0.3-alpha.zip)
     ```bash
     git clone https://github.com/byu-law/twelvetwenty.git
     ```
